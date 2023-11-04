@@ -1,4 +1,4 @@
-# POS System
+# POS System (Take Home Assignment)
 
 ## Purpose 
 For an online assessment, create a POS system to record transactions 
