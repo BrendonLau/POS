@@ -24,8 +24,3 @@ For an online assessment, create a POS system to record transactions
 3. Build the frontend image by running `docker build -t frontend .` in the `frontend` root directory
 4. Run `docker run -p 3000:3000 frontend` to start the frontend
 5. Go to http://localhost:3000/ 
-
-### Screenshot of application
-![Alt text](image.png)
-![Alt text](image-1.png)
-![Alt text](image-2.png)
